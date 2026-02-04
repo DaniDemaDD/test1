@@ -1,0 +1,16 @@
+{
+  "name": "proxmox-discord-monitor",
+  "version": "1.0.0",
+  "description": "Discord bot per monitorare Proxmox VM",
+  "main": "proxmox-monitor.js",
+  "scripts": {
+    "start": "node proxmox-monitor.js",
+    "dev": "node --watch proxmox-monitor.js"
+  },
+  "keywords": ["discord", "proxmox", "monitor", "alerts"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
