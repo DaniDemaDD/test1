@@ -7,7 +7,7 @@ const client = new Client({ intents: [GatewayIntentBits.DirectMessages] });
 
 // Configurazione
 const CONFIG = {
-  TOKEN: 'MTQ2ODM5MzE1MzMwMzQxNjkwNg.GxW_4Z.RzyD0JG97_ia6oYhLQXTMvEXluR6hTliKUnRKY',
+  TOKEN: '',
   CLIENT_ID: '1468393153303416906',
   USER_ID: '1228667533930926131',
   TEMP_THRESHOLD: 85, // Celsius
